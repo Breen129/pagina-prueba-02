@@ -1,0 +1,4 @@
+[[actions]]
+name = "play"
+path = "AmongUs/Among Us.exe"
+scope = "profile:me"
